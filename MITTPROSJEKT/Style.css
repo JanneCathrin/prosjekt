@@ -1,0 +1,41 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+* {background-color: black;}
+
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+} 
+
+
+/* The navbar */
+.topnav {
+    overflow: hidden;
+  }
+
+/* litt mere navbar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: black;
+}
+
+
+.topnav a:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(36, 167, 228);
+
+  }
+
+.mainbilde {
+  
+}
